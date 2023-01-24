@@ -1,0 +1,43 @@
+body{
+    background-image: url("genshin_26_4K.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+h1{
+    color:black;
+    font-family:  monospace;
+}
+h2{
+    color: black;
+    font-family:  monospace;
+}
+p{
+    color:black;
+    font-size: larger;
+    font-family:  monospace;
+    background-color: beige;
+    border-style: line;
+    border-width: 3px;
+    border-color:rgb(127, 178, 255);
+    border-radius: 10px;
+    padding: 5px;
+    width: 500px;
+}
+#agree{
+    color:black;
+    font-size: larger;
+    font-family:  monospace;
+    border-style: line;
+    border-width: 3px;
+    border-color:rgb(127, 178, 255);
+    border-radius:10px;
+    padding: 5px;
+    width: 500px;
+    background-color: beige;
+}
+
+
+
+    
